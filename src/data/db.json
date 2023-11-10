@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "image": "src/assets/todo-1.svg",
+      "title": "Decor Plate",
+      "desc": "$ 65.00 USD",
+      "isComplete": false
+    },
+    {
+      "id": 2,
+      "image": "src/assets/todo-2.svg",
+      "title": "Mint Pottery",
+      "desc": "$ 75.00 USD",
+      "isComplete": false
+    },
+    {
+      "id": 3,
+      "image": "src/assets/todo-3.svg",
+      "title": "Set Of Potterys",
+      "desc": "$ 125.00 USD",
+      "isComplete": false
+    },
+    {
+      "id": 4,
+      "image": "src/assets/todo-4.svg",
+      "title": "Orange Ceramic",
+      "desc": "$ 55.00 USD",
+      "isComplete": false
+    },
+    {
+      "id": 5,
+      "image": "src/assets/todo-5.svg",
+      "title": "Dark Bowl",
+      "desc": "$ 115.00 USD",
+      "isComplete": false
+    },
+    {
+      "id": 6,
+      "image": "src/assets/todo-6.svg",
+      "title": "Square Pottery",
+      "desc": "$ 75.00 USD",
+      "isComplete": false
+    }
+  ]
+}
